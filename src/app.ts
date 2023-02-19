@@ -1,3 +1,4 @@
+import { exampleBlock } from "./block.js";
 async function main(): Promise<void> {
   console.log("poyo");
 }
